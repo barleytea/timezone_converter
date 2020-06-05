@@ -26,4 +26,7 @@ ARGS:
 
 ### example
 
-`$ timezone_converter -f "Asia/Tokyo" -t "Europe/London" "2019/12/07 19:31:28"`
+```
+$ timezone_converter -f "Asia/Tokyo" -t "Europe/London" "2019/12/07 19:31:28"
+> 2019/12/07 10:31:28
+```
